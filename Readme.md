@@ -40,9 +40,9 @@ Release
 
 | Release | Released   | Debian Version | Linux Kernel Version     | Release Tag |
 |:--------|:-----------|:---------------|:-------------------------|:------------|
-| v5.0.0  | 2024-12-12 | Ubuntu 22.04.5 | 6.6.51-mpfs-fpga-first-1 | [v5.0.0](https://github.com/ikwzm/MPFS-FPGA-Ubuntu22.04/tree/v5.0.0)
+| v5.0.1  | 2024-12-12 | Ubuntu 22.04.5 | 6.6.51-mpfs-fpga-first-1 | [v5.0.1](https://github.com/ikwzm/MPFS-FPGA-Ubuntu22.04/tree/v5.0.1)
 
-Install (v5.0.0)
+Install (v5.0.1)
 ------------------------------------------------------------------------------------
 
 * Install U-Boot and Linux to SD-Card
