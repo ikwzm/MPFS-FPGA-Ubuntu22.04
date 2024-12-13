@@ -23,9 +23,9 @@ This Repository provides a Linux Boot Image(U-boot, Kernel, Ubuntu22.04-Root-Fs)
   + Customized boot by uEnv.txt
   + Customized boot by boot.scr
   + Enable bootmenu
-* Linux Kernel Version v6.6.xx
-  + [linux-stable v6.6.51](https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git//tag/?h=v6.6.51)
-  + Patched equivalent to linux-stable v6.6.51
+* Linux Kernel Version v6.6.x
+  + linux-stable v6.6.x
+  + Patched equivalent to linux-stable v6.6.x
   + Enable Device Tree Overlay
 * Ubuntu22.04.x(jammy) Root File System
   + Installed build-essential
@@ -38,9 +38,12 @@ This Repository provides a Linux Boot Image(U-boot, Kernel, Ubuntu22.04-Root-Fs)
 Release
 ------------------------------------------------------------------------------------
 
-| Release | Released   | Debian Version | Linux Kernel Version     | Release Tag |
+The main branch contains only Readme.md.     
+For Linux Kernel and Ubuntu22.04 RootFS, please refer to the respective release tag listed below.
+
+| Release | Released   | Ubuntu Version | Linux Kernel Version     | Release Tag |
 |:--------|:-----------|:---------------|:-------------------------|:------------|
-| v5.0.1  | 2024-12-12 | Ubuntu 22.04.5 | 6.6.51-mpfs-fpga-first-1 | [v5.0.1](https://github.com/ikwzm/MPFS-FPGA-Ubuntu22.04/tree/v5.0.1)
+| v5.0.1  | 2024-12-13 | Ubuntu 22.04.5 | 6.6.51-mpfs-fpga-first-1 | [v5.0.1](https://github.com/ikwzm/MPFS-FPGA-Ubuntu22.04/tree/v5.0.1)
 
 Install (v5.0.1)
 ------------------------------------------------------------------------------------
