@@ -37,6 +37,7 @@ sed -e 's/\s*\([\+0-9a-zA-Z\-]*\).*/\1/' << EOF | gdisk ${DISKDEV}
   c       # change a partition's name
   3       #   Partition number=3
   rootfs  #   Enter name='rootfs'
+  p       # print partitions
   w       # write table to disk and exit
   y       # Do you want to proceed? (Y/N)
 EOF
