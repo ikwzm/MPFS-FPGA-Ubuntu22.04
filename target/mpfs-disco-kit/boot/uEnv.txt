@@ -51,4 +51,5 @@ external_env_boot=if env run external_env_set; then; boot; else; echo "## Error 
 # Boot Menu
 ########################################################################
 bootmenu_0=Boot Default=boot
+bootmenu_1=Boot linux-6.6.51-mpfs-fpga-first=env set external_env_file uEnv-linux-6.6.51-mpfs-fpga-first.txt && env run external_env_boot
 bootdelay=5
