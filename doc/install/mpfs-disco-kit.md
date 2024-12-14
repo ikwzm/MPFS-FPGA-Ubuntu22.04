@@ -5,7 +5,7 @@
 ** Note: Downloading the entire repository takes time, so download the source code from https://github.com/ikwzm/MPFS-FPGA-Ubuntu22.04/releases. **
 
 ```console
-shell$ wget https://github.com/ikwzm/MPFS-FPGS-Ubuntu22.04/archive/refs/tags/v5.0.1.tar.gz
+shell$ wget https://github.com/ikwzm/MPFS-FPGA-Ubuntu22.04/archive/refs/tags/v5.0.1.tar.gz
 shell$ tar xfz v5.0.1.tar.gz
 shell$ cd MPFS-FPGA-Ubuntu22.04-5.0.1
 ```
