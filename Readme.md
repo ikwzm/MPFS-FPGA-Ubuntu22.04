@@ -43,9 +43,9 @@ For Linux Kernel and Ubuntu22.04 RootFS, please refer to the respective release 
 
 | Release | Released   | Ubuntu Version | Linux Kernel Version     | Release Tag |
 |:--------|:-----------|:---------------|:-------------------------|:------------|
-| v5.0.1  | 2024-12-13 | Ubuntu 22.04.5 | 6.6.51-mpfs-fpga-first-1 | [v5.0.1](https://github.com/ikwzm/MPFS-FPGA-Ubuntu22.04/tree/v5.0.1)
+| v5.0.2  | 2024-12-14 | Ubuntu 22.04.5 | 6.6.51-mpfs-fpga-first-1 | [v5.0.2](https://github.com/ikwzm/MPFS-FPGA-Ubuntu22.04/tree/v5.0.2)
 
-Install (v5.0.1)
+Install (v5.0.2)
 ------------------------------------------------------------------------------------
 
 * Install U-Boot and Linux to SD-Card
