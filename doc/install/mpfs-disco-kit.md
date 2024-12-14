@@ -5,9 +5,9 @@
 ** Note: Downloading the entire repository takes time, so download the source code from https://github.com/ikwzm/MPFS-FPGA-Ubuntu22.04/releases. **
 
 ```console
-shell$ wget https://github.com/ikwzm/MPFS-FPGS-Ubuntu22.04/archive/refs/tags/v5.0.1.tar.gz
-shell$ tar xfz v5.0.1.tar.gz
-shell$ cd MPFS-FPGA-Ubuntu22.04-5.0.1
+shell$ wget https://github.com/ikwzm/MPFS-FPGA-Ubuntu22.04/archive/refs/tags/v5.0.2.tar.gz
+shell$ tar xfz v5.0.2.tar.gz
+shell$ cd MPFS-FPGA-Ubuntu22.04-5.0.2
 ```
 
 ### File Description
@@ -18,7 +18,9 @@ shell$ cd MPFS-FPGA-Ubuntu22.04-5.0.1
      - uEnv.txt                                                 : U-Boot environment variables for linux boot
      - boot.scr                                                 : U-Boot Script file
      - devicetree-6.6.51-mpfs-fpga-first-mpfs-disco-kit.dtb     : Linux Device Tree Blob   
-     - devicetree-6.6.51-mpfs-fpga-first-mpfs-disco-kit.dts     : Linux Device Tree Blob   
+     - devicetree-6.6.51-mpfs-fpga-first-mpfs-disco-kit.dts     : Linux Device Tree Blob
+   + u-boot/
+     - uboot.img                                                : U-Boot Image 
  * files/
      - vmlinuz-6.6.51-mpfs-fpga-first-1                         : Linux Kernel Image
  * ubuntu22.04-rootfs.tgz.files/                                : Ubuntu22.04 Root File System
